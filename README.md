@@ -84,27 +84,26 @@ You'll see a menu:
 ==============================
 🚀 GIT COLLABORATION MENU
 ==============================
-1️. Start New Feature / Task
-2️. Review & Merge Pull Requests
-3️. Exit
-4️. Git Utilities (status, pull, fetch)
-5️. Branch Management (switch/delete)
+1. Start New Feature / Task
+2. Review & Merge Pull Requests
+3. Git Utilities (status, pull, fetch)
+4. Branch Management (switch/delete)
+5. Exit
 ------------------------------
 👉 Choose an option [1-5]:
 
-
+```
 
 🧹 Uninstalling
 To fully remove the GitCollab tools:
 
-```bash
 1. Download and run the uninstall script:
 wget https://your-link.com/uninstall-gitcollab.sh
 
 2. chmod +x uninstall-gitcollab.sh
 
 3. ./uninstall-gitcollab.sh
-```
+
 
 ---
 
