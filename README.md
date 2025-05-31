@@ -108,7 +108,7 @@ wget https://your-link.com/uninstall-gitcollab.sh
 
 ---
 
-🤝 Contributing
+## 🤝 Contributing
 Contributions, issues, and feature requests are welcome!
 
 1. Fork the repository
@@ -121,7 +121,7 @@ Please ensure your code follows existing style and includes tests if applicable.
 
 ---
 
-🙌 Maintained by:
+## 🙌 Maintained by:
 Crispus M. Omollo
 🛠️ Tech Junkie | DevOps and Automation Advocate
 📧 crispus.omollo@gmail.com
