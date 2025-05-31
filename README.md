@@ -130,7 +130,7 @@ Crispus M. Omollo
 
 ---
 
-💡 License
+## 💡 License
 MIT License
 
 ---
