@@ -1,0 +1,41 @@
+🧰 1. Install Git (if it's not already installed)
+Open a terminal and run:
+sudo apt update
+sudo apt install git
+
+Check the installation:
+git --version
+
+📝 2. Configure Git (User Information)
+Set your name and email (used for commits):
+git config --global user.name "Your Name"
+git config --global user.email "your.email@example.com"
+
+You can confirm the settings:
+git config --list
+
+🛡️ 3. (Optional) Enable Credential Caching
+If you use HTTPS to access repositories and don't want to enter your password every time:
+git config --global credential.helper cache
+
+You can also specify a timeout (in seconds), e.g., 1 hour:
+git config --global credential.helper 'cache --timeout=3600'
+
+🔐 4. (Recommended) Use SSH for Authentication
+Generate an SSH key (if you haven’t already):
+ssh-keygen -t ed25519 -C "your.email@example.com"
+Then start the SSH agent and add your key:
+eval "$(ssh-agent -s)"
+ssh-add ~/.ssh/id_ed25519
+
+Copy the public key to your clipboard:
+cat ~/.ssh/id_ed25519.pub
+Add this key to your GitHub/GitLab/Bitbucket account under SSH settings.
+
+🛠️ 5. Set Default Text Editor (Optional)
+Example for using nano:
+git config --global core.editor "nano"
+
+✅ 6. Verify Everything
+git config --list
+You should see all your global Git settings listed.
