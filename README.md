@@ -79,8 +79,9 @@ sudo dpkg -i gitcollab-tools.deb
 Navigate to any Git project folder, then run:
 
 ```bash
-gitmenu
+# gitmenu
 ```
+
 ---
 
 You will see a menu:
@@ -99,6 +100,7 @@ You will see a menu:
 
 🧹 Uninstalling
 To fully remove the GitCollab tools:
+
 ```bash
 1. Download and run the uninstall script:
 wget https://your-link.com/uninstall-gitcollab.sh
