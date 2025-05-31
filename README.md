@@ -41,7 +41,7 @@ sudo dpkg -i gitcollab-tools.deb
 
 🎉 GitCollab Tools installed successfully!
 👉 Run 'gitmenu' in any project to start collaborating.
-🚀 Happy coding, Crispus!
+🚀 Happy coding!
 
 ---
 
@@ -50,7 +50,9 @@ sudo dpkg -i gitcollab-tools.deb
 Navigate to any Git project folder, then run:
 
 ```bash
+
 gitmenu
+
 You'll see a menu:
 ==============================
 🚀 GIT COLLABORATION MENU
