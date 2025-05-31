@@ -70,7 +70,7 @@ wget https://your-link.com/gitcollab-tools.deb
 
 # Install the package
 sudo dpkg -i gitcollab-tools.deb
-
+```
 
 ---
 
@@ -82,7 +82,7 @@ Navigate to any Git project folder, then run:
 
 gitmenu
 
-```bash
+```
 
 You will see a menu:
 ==============================
