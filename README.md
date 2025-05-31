@@ -1,7 +1,7 @@
 # 🚀 IGWAT – *Interactive Git Workflow Assistant for Teams*
 
 <p align="center">
-  <img src="assets/banner.png" alt="IGWAT – Git Assistant" width="2%" />
+  <img src="assets/banner.png" alt="..." width="2%" />
 </p>
 
 ![GitHub license](https://img.shields.io/github/license/crispusomollo/gitcollab)
