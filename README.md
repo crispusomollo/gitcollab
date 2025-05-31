@@ -80,7 +80,8 @@ Navigate to any Git project folder, then run:
 
 ```bash
 gitmenu
-You'll see a menu:
+
+You will see a menu:
 ==============================
 🚀 GIT COLLABORATION MENU
 ==============================
@@ -92,7 +93,6 @@ You'll see a menu:
 ------------------------------
 👉 Choose an option [1-5]:
 
-```
 
 🧹 Uninstalling
 To fully remove the GitCollab tools:
@@ -104,6 +104,7 @@ wget https://your-link.com/uninstall-gitcollab.sh
 
 3. ./uninstall-gitcollab.sh
 
+```
 
 ---
 
