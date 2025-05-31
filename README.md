@@ -1,12 +1,12 @@
 # 🚀 IGWAT – *Interactive Git Workflow Assistant for Teams*
 
 <p align="center">
-  <img src="assets/banner.png" alt="IGWAT – Git Assistant" width="80%" />
+  <img src="assets/banner.png" alt="IGWAT – Git Assistant" width="2%" />
 </p>
 
-![GitHub license](https://img.shields.io/github/license/yourusername/igwat)
+![GitHub license](https://img.shields.io/github/license/crispusomollo/gitcollab)
 ![Platform](https://img.shields.io/badge/platform-bash-lightgrey)
-![GitHub stars](https://img.shields.io/github/stars/yourusername/igwat?style=social)
+![GitHub stars](https://img.shields.io/github/stars/crispusomollo/gitcollab?style=social)
 
 Simplify your team's Git collaboration with a lightweight, terminal-based assistant that helps manage your workflow effortlessly. Whether you're starting new features, reviewing pull requests, or handling branches, this tool guides you through common Git tasks via an intuitive interactive menu — so you can focus on coding, not commands.
 
