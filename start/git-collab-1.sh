@@ -20,16 +20,9 @@ git add .
 read -p "📄 Enter your commit message: " msg
 git commit -m "$msg"
 
-# Push branch to GitHub
 git push -u origin $branch
 echo "🚀 Pushed to GitHub: $branch"
 
-# Step 5: Auto-create a pull request
-read -p "🧾 Enter Pull Request title: " pr_title
-read -p "✏️ Enter Pull Request body/description: " pr_body
-
-# Create PR using GitHub CLI
-gh pr create --base main --head $branch --title "$pr_title" --body "$pr_body"
-
-echo "✅ Pull Request created successfully!"
-
+# Optional: Show status and PR reminder
+git status
+echo "💡 Don't forget to create a Pull Request on GitHub!"
