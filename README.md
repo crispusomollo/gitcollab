@@ -82,20 +82,6 @@ Navigate to any Git project folder, then run:
 # gitmenu
 ```
 
-You will see a menu:
-==============================
-🚀 GIT COLLABORATION MENU
-==============================
-1. Start New Feature / Task
-2. Review & Merge Pull Requests
-3. Git Utilities (status, pull, fetch)
-4. Branch Management (switch/delete)
-5. Exit
-------------------------------
-👉 Choose an option [1-5]:
-
----
-
 🧹 Uninstalling
 To fully remove the GitCollab tools:
 
