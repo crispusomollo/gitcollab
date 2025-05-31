@@ -1,3 +1,5 @@
+To configure Git on Ubuntu, follow these steps:
+
 🧰 1. Install Git (if it's not already installed)
 Open a terminal and run:
 sudo apt update
