@@ -3,7 +3,7 @@
 Simplify your team's *Git collaboration* with a lightweight, terminal-based assistant that helps manage your workflow effortlessly. Whether you're starting new features, reviewing pull requests, or handling branches, this tool guides you through common Git tasks via an intuitive interactive menu — so you can focus on coding, not commands.  
 
 ---
-##Features
+## Features
 
 - Start New Features or Tasks: Quickly create and switch to new feature branches with ease.
 - Review & Merge Pull Requests: Streamline your PR review process directly from the terminal.
