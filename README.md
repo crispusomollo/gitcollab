@@ -68,6 +68,7 @@ You will see a menu:
 
 🧹 Uninstalling
 To fully remove the GitCollab tools:
+
 1. Download and run the uninstall script:
 wget https://your-link.com/uninstall-gitcollab.sh
 
@@ -88,8 +89,8 @@ Contributions, issues, and feature requests are welcome!
 Please ensure your code follows existing style and includes tests if applicable.
 
 
-🙌 Maintained by
-Crispus Omollo
+🙌 Maintained by:
+Crispus M. Omollo
 🛠️ Tech Junkie | DevOps and Automation Advocate
 📧 crispus.omollo@gmail.com
 
