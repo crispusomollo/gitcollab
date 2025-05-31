@@ -53,7 +53,7 @@ Navigate to any Git project folder, then run:
 
 gitmenu
 
-You'll see a menu:
+You will see a menu:
 ==============================
 🚀 GIT COLLABORATION MENU
 ==============================
