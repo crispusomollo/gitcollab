@@ -124,6 +124,7 @@ Please ensure your code follows existing style and includes tests if applicable.
 ## 🙌 Maintained by:
 Crispus M. Omollo
 🛠️ Tech Junkie | DevOps and Automation Advocate
+
 📧 crispus.omollo@gmail.com
 
 ---
