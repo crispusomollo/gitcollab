@@ -1,47 +1,76 @@
-# 🚀 IGWAT - Interactive Git Workflow Assistant for Teams
+# 🚀 IGWAT – *Interactive Git Workflow Assistant for Teams*
 
-Simplify your team's *Git collaboration* with a lightweight, terminal-based assistant that helps manage your workflow effortlessly. Whether you're starting new features, reviewing pull requests, or handling branches, this tool guides you through common Git tasks via an intuitive interactive menu — so you can focus on coding, not commands.  
+<p align="center">
+  <img src="assets/banner.png" alt="IGWAT – Git Assistant" width="80%" />
+</p>
 
----
-## Features
+![GitHub license](https://img.shields.io/github/license/yourusername/igwat)
+![Platform](https://img.shields.io/badge/platform-bash-lightgrey)
+![GitHub stars](https://img.shields.io/github/stars/yourusername/igwat?style=social)
 
-- Start New Features or Tasks: Quickly create and switch to new feature branches with ease.
-- Review & Merge Pull Requests: Streamline your PR review process directly from the terminal.
-- Git Utilities: Check status, pull updates, and fetch changes without typing long commands.
-- Branch Management: Switch between branches or delete obsolete ones safely.
-- Clean Exit: Intuitive menu design ensures the Exit option is always the last, avoiding accidental quits.
-
----
-## Why Use This Tool?
-- Boost Productivity: Minimize Git command memorization and errors.
-- Team Friendly: Standardize Git workflows across your team for smoother collaboration.
-- Lightweight & Fast: Runs directly in your terminal with no heavy dependencies.
-- Open Source & Customizable: Easily adapt to your team’s unique workflow.
+Simplify your team's Git collaboration with a lightweight, terminal-based assistant that helps manage your workflow effortlessly. Whether you're starting new features, reviewing pull requests, or handling branches, this tool guides you through common Git tasks via an intuitive interactive menu — so you can focus on coding, not commands.
 
 ---
+
+## 📚 Table of Contents
+
+- [✨ Features](#-features)
+- [💡 Why IGWAT?](#-why-igwat)
+- [📦 Installation](#-installation)
+- [🚀 Usage](#usage)
+- [🧹 Uninstalling](#uninstalling)
+- [🤝 Contributing](#contributing)
+- [👤 Maintained by](#maintained-by)
+- [💼 License](#license)
+- [📘 About](#about)
+
+---
+
+## ✨ Features
+
+- 🔧 **Start New Features or Tasks**  
+  Quickly create and switch to new feature branches.
+
+- 🔍 **Review & Merge Pull Requests**  
+  Streamline your PR process directly from the terminal.
+
+- 🛠️ **Git Utilities**  
+  Run `status`, `pull`, and `fetch` without typing full commands.
+
+- 🌿 **Branch Management**  
+  Switch between branches or delete obsolete ones safely.
+
+- 🚪 **Clean Exit**  
+  Exit is always the last menu option — to avoid accidental quits.
+
+---
+
+## 💡 Why IGWAT?
+
+- ⚡ **Boost Productivity** – No need to memorize Git commands.  
+- 🤝 **Team Friendly** – Standardize Git workflows across your team.  
+- 🧩 **Lightweight & Fast** – Terminal-based with no heavy dependencies.  
+- 🔓 **Open Source & Customizable** – Tailor it to fit your team's workflow.
+
+---
+
 ## 📦 Installation
 
 ### 🔧 Prerequisites
 
-- Ubuntu/Debian-based system
-- Git installed
+- Ubuntu/Debian-based system  
+- Git installed  
 - Bash shell
 
 ### 📥 Install from `.deb`
 
-1. Download the `.deb` package:
-
+```bash
+# Download the package
 wget https://your-link.com/gitcollab-tools.deb
 
-2. Install it:
-
+# Install the package
 sudo dpkg -i gitcollab-tools.deb
 
-3. ✅ After installation, you'll see:
-
-🎉 GitCollab Tools installed successfully!
-👉 Run 'gitmenu' in any project to start collaborating.
-🚀 Happy coding!
 
 ---
 
@@ -52,6 +81,8 @@ Navigate to any Git project folder, then run:
 ```bash
 
 gitmenu
+
+```bash
 
 You will see a menu:
 ==============================
