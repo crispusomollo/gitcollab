@@ -79,23 +79,17 @@ sudo dpkg -i gitcollab-tools.deb
 Navigate to any Git project folder, then run:
 
 ```bash
-# gitmenu
-```
-
-You will see a menu:
-
-======================================
+gitmenu
+You'll see a menu:
+==============================
 🚀 GIT COLLABORATION MENU
-
-=======================================
+==============================
 1️. Start New Feature / Task
 2️. Review & Merge Pull Requests
 3️. Exit
 4️. Git Utilities (status, pull, fetch)
 5️. Branch Management (switch/delete)
-
-=======================================
-
+------------------------------
 👉 Choose an option [1-5]:
 
 
