@@ -1,5 +1,8 @@
 #!/bin/bash
 
+# Get the directory of the current script for relative sourcing
+DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
+
 while true; do
   echo ""
   echo "=============================="
@@ -15,10 +18,10 @@ while true; do
 
   case $choice in
     1)
-      ~/git-collab.sh
+      "$DIR/gitcollab.sh"
       ;;
     2)
-      ~/git-review.sh
+      "$DIR/gitreview.sh"
       ;;
     3)
       echo ""
@@ -38,7 +41,7 @@ while true; do
       if [[ "$fetch_confirm" == "y" ]]; then
         git fetch
       fi
-      ;;
+      ;; 
     4)
       echo ""
       echo "🌿 Branch Management"
@@ -65,3 +68,4 @@ while true; do
       ;;
   esac
 done
+
