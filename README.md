@@ -1,5 +1,8 @@
 # 🚀 IGWAT – *Interactive Git Workflow Assistant for Teams*
 
+
+[![Use this template](https://img.shields.io/badge/GitHub-Use%20this%20template-brightgreen?style=for-the-badge&logo=github)](https://github.com/crispusomollo/gitcollab/generate)
+[![Build Debian Package](https://img.shields.io/badge/build-.deb-blue?style=for-the-badge&logo=debian)](https://github.com/crispusomollo/gitcollab/releases)
 ![GitHub license](https://img.shields.io/github/license/crispusomollo/gitcollab)
 ![Platform](https://img.shields.io/badge/platform-bash-lightgrey)
 ![GitHub stars](https://img.shields.io/github/stars/crispusomollo/gitcollab?style=social)
