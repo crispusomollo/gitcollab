@@ -13,12 +13,12 @@ Simplify your team's Git collaboration with a lightweight, terminal-based assist
 - [✨ Features](#-features)
 - [💡 Why IGWAT?](#-why-igwat)
 - [📦 Installation](#-installation)
-- [🚀 Usage](#usage)
-- [🧹 Uninstalling](#uninstalling)
-- [🤝 Contributing](#contributing)
-- [👤 Authors](#maintained-by)
-- [💼 License](#license)
-- [📘 About](#about)
+- [🚀 Usage](#-usage)
+- [🧹 Uninstalling](#-uninstalling)
+- [🤝 Contributing](#-contributing)
+- [👤 Authors](#-authors)
+- [💼 License](#-license)
+- [📘 Acknowledgements](#-acknowledgements)
 
 ---
 
@@ -71,13 +71,15 @@ sudo dpkg -i gitcollab-tools.deb
 ---
 
 ## 🚀 Usage
-
 Navigate to any Git project folder, then run:
 
 ```bash
 gitmenu
+```
 
 You will see a menu:
+
+```bash
 ==============================
 🚀 GIT COLLABORATION MENU
 ==============================
@@ -89,16 +91,22 @@ You will see a menu:
 ------------------------------
 👉 Choose an option [1-5]:
 
+```
 
-🧹 Uninstalling
-To fully remove the GitCollab tools:
+---
 
-1. Download and run the uninstall script:
+## 🧹 Uninstalling
+To fully remove the IGWAT collaboration tools:
+
+```bash
+# 1. Download and run the uninstall script
 wget https://your-link.com/uninstall-gitcollab.sh
 
-2. chmod +x uninstall-gitcollab.sh
+# 2. Make the script executable
+chmod +x uninstall-gitcollab.sh
 
-3. ./uninstall-gitcollab.sh
+# 3. Run the script
+./uninstall-gitcollab.sh
 
 ```
 
@@ -108,28 +116,35 @@ wget https://your-link.com/uninstall-gitcollab.sh
 Contributions, issues, and feature requests are welcome!
 
 1. Fork the repository
-2. Create your feature branch (git checkout -b feature/your-feature)
+2. Create your feature branch
+   ```bash
+   git checkout -b feature/your-feature
+
 3. Commit your changes (git commit -m 'Add your feature')
+   ```bash
+   git commit -m 'Add your feature'
+
 4. Push to the branch (git push origin feature/your-feature)
+   ```bash
+   git push origin feature/your-feature
+
 5. Open a Pull Request
 
 Please ensure your code follows existing style and includes tests if applicable.
 
 ---
 
-## Authors
-
+## 👤 Authors
 - [Crispus M. Omollo](https://www.github.com/crispusomollo)
-
 
 ---
 
-## 💡 License
+## 💼 License
 [MIT License](https://github.com/crispusomollo/gitcollab/blob/main/LICENCE)
 
 ---
 
-## Acknowledgements
+## 📘 Acknowledgements
 
  - [ALX Africa](https://www.alxafrica.com/)
  - [Fred Swaniker](https://www.africanleadershipacademy.org/ala_board/fred-swaniker/)
