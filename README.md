@@ -1,9 +1,5 @@
 # 🚀 IGWAT – *Interactive Git Workflow Assistant for Teams*
 
-<p align="center">
-  <img src="assets/banner.png" alt="..." width="2%" />
-</p>
-
 ![GitHub license](https://img.shields.io/github/license/crispusomollo/gitcollab)
 ![Platform](https://img.shields.io/badge/platform-bash-lightgrey)
 ![GitHub stars](https://img.shields.io/github/stars/crispusomollo/gitcollab?style=social)
@@ -135,4 +131,3 @@ MIT License
 
 ---
 
-![image](https://github.com/user-attachments/assets/91607d38-8530-453d-a707-674ed45a3c8b)
