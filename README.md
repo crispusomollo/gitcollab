@@ -67,10 +67,10 @@ Simplify your team's Git collaboration with a lightweight, terminal-based assist
 
 ```bash
 # Download the package
-wget https://github.com/crispusomollo/gitcollab/blob/main/gitcollab-tools.deb
+wget https://github.com/crispusomollo/gitcollab/releases/tag/v.1.0.0/gitcollab-deb.deb
 
 # Install the package
-sudo dpkg -i gitcollab-tools.deb
+sudo dpkg -i gitcollab-deb.deb
 ```
 
 
