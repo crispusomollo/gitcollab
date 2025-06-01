@@ -1,0 +1,13 @@
+Package: gitcollab
+Version: 1.0.0
+Section: utils
+Priority: optional
+Architecture: all
+Depends: git
+Maintainer: Crispus Omollo <crispusomollo@gmail.com>
+Description: 🚀 A CLI toolkit for GitHub collaboration
+ A simple Bash-based toolkit for teams working with GitHub. Includes:
+ - gitmenu: a menu system
+ - gitcollab: feature branch + PR helper
+ - gitreview: PR review + merge
+
