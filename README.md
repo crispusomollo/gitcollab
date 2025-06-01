@@ -126,5 +126,12 @@ Please ensure your code follows existing style and includes tests if applicable.
 
 ## 💡 License
 [MIT License](https://github.com/crispusomollo/gitcollab/blob/main/LICENCE)
+
 ---
 
+## Acknowledgements
+
+ - [ALX Africa](https://www.alxafrica.com/)
+ - [Fred Swaniker](https://www.africanleadershipacademy.org/ala_board/fred-swaniker/)
+ - [How to write a Good readme](https://readme.so/editor)
+ - [ChatGPT](https://chatgpt.com/)
