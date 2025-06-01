@@ -61,7 +61,7 @@ Simplify your team's Git collaboration with a lightweight, terminal-based assist
 - Git installed  
 - Bash shell
 
-### 📥 Install from `.deb`
+### 📥 Install using `.deb` package (Recommended)
 
 ```bash
 # Download the package
@@ -69,6 +69,20 @@ wget https://github.com/crispusomollo/gitcollab/blob/main/gitcollab-tools.deb
 
 # Install the package
 sudo dpkg -i gitcollab-tools.deb
+```
+
+
+💻 Manual Installation (Dev Mode)
+
+```bash
+sudo make install
+```
+
+or:
+
+
+```bash
+sudo ./install.sh
 ```
 
 ---
@@ -96,6 +110,14 @@ You will see a menu:
 
 ```
 
+### 🔧 Commands
+
+| Command     | Description                          |
+| ----------- | ------------------------------------ |
+| `gitmenu`   | Launch the interactive menu          |
+| `gitcollab` | Start a feature/task + open draft PR |
+| `gitreview` | Checkout PRs, test, and squash merge |
+
 ---
 
 ## 🧹 Uninstalling
@@ -122,11 +144,11 @@ Contributions, issues, and feature requests are welcome!
 2. Create your feature branch
    ```bash
    git checkout -b feature/your-feature
-
+   ```
 3. Commit your changes
    ```bash
    git commit -m 'Add your feature'
-
+   ```
 4. Push to the branch
    ```bash
    git push origin feature/your-feature
