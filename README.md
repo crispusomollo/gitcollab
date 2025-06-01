@@ -16,7 +16,7 @@ Simplify your team's Git collaboration with a lightweight, terminal-based assist
 - [🚀 Usage](#usage)
 - [🧹 Uninstalling](#uninstalling)
 - [🤝 Contributing](#contributing)
-- [👤 Maintained by](#maintained-by)
+- [👤 Authors](#maintained-by)
 - [💼 License](#license)
 - [📘 About](#about)
 
@@ -117,11 +117,9 @@ Please ensure your code follows existing style and includes tests if applicable.
 
 ---
 
-## 🙌 Maintained by:
-Crispus M. Omollo
-🛠️ Tech Junkie | DevOps and Automation Advocate
+## Authors
 
-📧 crispus.omollo@gmail.com
+- [@crispusomollo](https://www.github.com/crispusomollo)
 
 
 ---
