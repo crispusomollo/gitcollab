@@ -125,7 +125,6 @@ Please ensure your code follows existing style and includes tests if applicable.
 ---
 
 ## 💡 License
-MIT License
-
+[MIT License](https://github.com/crispusomollo/gitcollab/blob/main/LICENCE)
 ---
 
