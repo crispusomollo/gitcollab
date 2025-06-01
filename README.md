@@ -82,7 +82,6 @@ sudo make install
 
 or:
 
-
 ```bash
 sudo ./install.sh
 ```
