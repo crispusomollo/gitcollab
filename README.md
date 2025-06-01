@@ -127,6 +127,7 @@ Crispus M. Omollo
 
 📧 crispus.omollo@gmail.com
 
+
 ---
 
 ## 💡 License
@@ -134,3 +135,4 @@ MIT License
 
 ---
 
+![image](https://github.com/user-attachments/assets/91607d38-8530-453d-a707-674ed45a3c8b)
