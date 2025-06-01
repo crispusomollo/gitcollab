@@ -100,7 +100,7 @@ To fully remove the IGWAT collaboration tools:
 
 ```bash
 # 1. Download and run the uninstall script
-wget https://your-link.com/uninstall-gitcollab.sh
+wget https://github.com/crispusomollo/gitcollab/blob/main/uninstall-gitcollab.sh
 
 # 2. Make the script executable
 chmod +x uninstall-gitcollab.sh
