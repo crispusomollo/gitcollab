@@ -119,7 +119,7 @@ Please ensure your code follows existing style and includes tests if applicable.
 
 ## Authors
 
-- [@crispusomollo](https://www.github.com/crispusomollo)
+- [Crispus M. Omollo](https://www.github.com/crispusomollo)
 
 
 ---
