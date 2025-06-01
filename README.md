@@ -61,6 +61,12 @@ Simplify your team's Git collaboration with a lightweight, terminal-based assist
 - Git installed  
 - Bash shell
 
+Install GH CLI:
+```bash
+brew install gh         # macOS
+sudo apt install gh     # Ubuntu/Debian
+```
+
 ### 📥 Install using `.deb` package (Recommended)
 
 ```bash
@@ -138,7 +144,7 @@ chmod +x uninstall-gitcollab.sh
 ---
 
 ## 🤝 Contributing
-Contributions, issues, and feature requests are welcome!
+Want to add a feature? Fix a bug? Create a PR! Contributions, issues, and feature requests are welcome! 
 
 1. Fork the repository
 2. Create your feature branch
@@ -164,7 +170,7 @@ Please ensure your code follows existing style and includes tests if applicable.
 
 
 ## 💼 License
-[MIT License](https://github.com/crispusomollo/gitcollab/blob/main/LICENCE)
+[MIT License @ Crispus M. Omollo](https://github.com/crispusomollo/gitcollab/blob/main/LICENCE)
 
 
 ## 📘 Acknowledgements
