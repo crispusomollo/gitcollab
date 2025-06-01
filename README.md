@@ -137,12 +137,10 @@ Please ensure your code follows existing style and includes tests if applicable.
 ## 👤 Authors
 - [Crispus M. Omollo](https://www.github.com/crispusomollo)
 
----
 
 ## 💼 License
 [MIT License](https://github.com/crispusomollo/gitcollab/blob/main/LICENCE)
 
----
 
 ## 📘 Acknowledgements
 
