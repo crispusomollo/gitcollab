@@ -58,14 +58,10 @@ Simplify your team's Git collaboration with a lightweight, terminal-based assist
 ### 🔧 Prerequisites
 
 - Ubuntu/Debian-based system  
-- Git installed  
+- Git installed
+- Install GH CLI  
 - Bash shell
 
-Install GH CLI:
-```bash
-brew install gh         # macOS
-sudo apt install gh     # Ubuntu/Debian
-```
 
 ### 📥 Install using `.deb` package (Recommended)
 
@@ -78,7 +74,7 @@ sudo dpkg -i gitcollab-tools.deb
 ```
 
 
-💻 Manual Installation (Dev Mode)
+### 💻 Manual Installation (Dev Mode)
 
 ```bash
 sudo make install
