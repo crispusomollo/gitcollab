@@ -1,0 +1,7 @@
+Package: gitcollab
+Version: 1.0
+Section: utils
+Priority: optional
+Architecture: all
+Maintainer: Your Name <you@example.com>
+Description: A simple Git collaboration helper tool
