@@ -23,8 +23,8 @@ while true; do
   read -p "👉 Choose an option [1-5]: " choice
 
   case $choice in
-    1) "$DIR/gitcollab.sh" ;;
-    2) "$DIR/gitreview.sh" ;;
+    1) "$DIR/gitcollab" ;;
+    2) "$DIR/gitreview" ;;
     3)
       echo -e "\n${CYAN}🔧 Git Utilities${RESET}"
       echo "-----------------"
