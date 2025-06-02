@@ -59,7 +59,7 @@ Simplify your team's Git collaboration with a lightweight, terminal-based assist
 
 - Ubuntu/Debian-based system  
 - Git installed
-- Install GH CLI  
+- [Install GH CLI](https://github.com/crispusomollo/gitcollab/blob/main/prerequisites)
 - Bash shell
 
 ### 💻 Manual Installation (Dev Mode)
