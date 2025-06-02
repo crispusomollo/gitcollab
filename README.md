@@ -62,6 +62,17 @@ Simplify your team's Git collaboration with a lightweight, terminal-based assist
 - Install GH CLI  
 - Bash shell
 
+### 💻 Manual Installation (Dev Mode)
+
+```bash
+sudo ./install.sh
+```
+
+or:
+
+```bash
+sudo make install
+```
 
 ### 📥 Install using `.deb` package (Recommended)
 
@@ -71,19 +82,6 @@ wget https://bit.ly/43HqwUy
 
 # Install the package
 sudo dpkg -i gitcollab-deb.deb
-```
-
-
-### 💻 Manual Installation (Dev Mode)
-
-```bash
-sudo make install
-```
-
-or:
-
-```bash
-sudo ./install.sh
 ```
 
 ---
