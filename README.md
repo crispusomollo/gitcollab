@@ -65,6 +65,10 @@ Simplify your team's Git collaboration with a lightweight, terminal-based assist
 ### 💻 Manual Installation (Dev Mode)
 
 ```bash
+git clone https://github.com/crispusomollo/gitcollab
+
+cd gitcollab
+
 sudo ./install.sh
 ```
 
