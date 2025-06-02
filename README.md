@@ -67,7 +67,7 @@ Simplify your team's Git collaboration with a lightweight, terminal-based assist
 
 ```bash
 # Download the package
-wget https://github.com/crispusomollo/gitcollab/releases/tag/v.1.0.0/gitcollab-deb.deb
+wget https://bit.ly/43HqwUy
 
 # Install the package
 sudo dpkg -i gitcollab-deb.deb
