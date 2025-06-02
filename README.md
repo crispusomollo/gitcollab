@@ -78,7 +78,7 @@ sudo make install
 
 ```bash
 # Download the package
-wget [https://bit.ly/43HqwUy](https://github.com/crispusomollo/gitcollab/blob/main/gitcollab-deb.deb)
+wget https://github.com/crispusomollo/gitcollab/blob/main/gitcollab-deb.deb
 
 # Install the package
 sudo dpkg -i gitcollab-deb.deb
